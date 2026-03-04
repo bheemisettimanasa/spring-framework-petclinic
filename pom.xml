@@ -655,7 +655,7 @@
     <repository>
       <id>maven-releases</id>
       <name>maven Release Repository</name>
-      <urlhttp://13.204.88.58:8081/repository/maven-releases/</url>
+      <url>http://13.204.88.58:8081/repository/maven-releases/</url>
     </repository>
 
     <!-- For snapshot versions -->
